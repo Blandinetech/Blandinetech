@@ -18,7 +18,7 @@ Now I’m transitioning into tech with curiosity, resilience, and purpose.
 - Building my first personal projects
 
 📫 Let’s connect!  
-[LinkedIn]-www.linkedin.com/in/blandine-d-996b49226
+[LinkedIn] (https://www.linkedin.com/in/blandinetech)
 
 ---
 ✨ “Small steps every day, big changes ahead.”
