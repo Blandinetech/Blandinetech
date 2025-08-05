@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋🏽 Hello, I’m Blandine!
 
-<!--
-**Blandinetech/Blandinetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a future software developer based in Edmonton, Canada  
+Currently preparing to start my studies at NAIT in Software Development.  
 
-Here are some ideas to get you started:
+💡 I’m passionate about:
+- Learning new technologies step by step
+- Building tools that make real life easier
+- Creating inclusive and meaningful tech experiences  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Background:
+I come from a background in medical lab science.  
+Now I’m transitioning into tech with curiosity, resilience, and purpose.
+
+🌱 I’m currently working on:
+- Strengthening my skills in HTML, CSS and GitHub
+- Exploring backend development and UX
+- Building my first personal projects
+
+📫 Let’s connect!  
+[LinkedIn]-www.linkedin.com/in/blandine-d-996b49226
+
+---
+✨ “Small steps every day, big changes ahead.”
