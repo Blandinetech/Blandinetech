@@ -1,24 +1,18 @@
-# 👋🏽 Hello, I’m Blandine!
+# 👋🏽 Hi, I'm Blandine
 
-I'm a future software developer based in Edmonton, Canada  
-Currently preparing to start my studies at NAIT in Software Development.  
+Software Development student based in Edmonton, Canada, with a background in medical laboratory science.
 
-💡 I’m passionate about:
-- Learning new technologies step by step
-- Building tools that make real life easier
-- Creating inclusive and meaningful tech experiences  
+I’m transitioning into tech with a strong interest in backend fundamentals, database design, and building practical tools that solve real-world problems.
 
-🧠 Background:
-I come from a background in medical lab science.  
-Now I’m transitioning into tech with curiosity, resilience, and purpose.
+## What I’m working on
+- Building foundational projects using HTML, CSS, JavaScript, Python, and PostgreSQL
+- Learning software development concepts through hands-on practice
+- Exploring how thoughtful design and data modeling improve user experience
 
-🌱 I’m currently working on:
-- Strengthening my skills in HTML, CSS and GitHub
-- Exploring backend development and UX
-- Building my first personal projects
+## Background
+Before moving into tech, I worked in medical laboratory science, where accuracy, problem-solving, and structured thinking were essential.
+These skills now inform how I approach software development and system design.
 
-📫 Let’s connect!  
+## Let’s connect
 [LinkedIn] (https://www.linkedin.com/in/blandinetech)
 
----
-✨ “Small steps every day, big changes ahead.”
